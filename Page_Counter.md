@@ -5,6 +5,8 @@
 ![Img](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/badge.PNG)
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FTechIsEasy%2Fblob%2Fmain%2FPage_Counter.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Features
 1. Displays daily and total page views on your page.
 2. Support badge with customized style.
