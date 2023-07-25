@@ -9,6 +9,7 @@
 
 1. [Data Referencing](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Data_Referencing_Google_Sheets.md)
 2. [Generating a GitHub Page Counter](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Page_Counter.md)
+3. [Dropdown Menu](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Dropdown_Menu.md)
 
 
 
