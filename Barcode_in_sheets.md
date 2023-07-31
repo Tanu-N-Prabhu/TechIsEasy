@@ -11,4 +11,6 @@
 
 1. Generate your barcode using the [BarcodeAPI](https://barcodeapi.org/index.html#auto) generator.
 2. You can choose different options, but I chose `QR Code` for this tutorial.
-3. 
+3. Click on `Get Link to Barcode` for the link of your QR code.
+4. Paste the link in your cell and enclose it with an `IMAGE` tag as shown below
+5. 
