@@ -2,6 +2,8 @@
 
 ## Don’t Ctrl C + V for Barcode, Rather Generate It Using the API.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FTechIsEasy%2Fblob%2Fmain%2FBarcode_in_sheets.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 | ![space-1.jpg](https://image.winudf.com/v2/image1/YmFyY29kZWdlbmVyYXRvci5iYXJjb2RlY3JlYXRvci5iYXJjb2RlbWFrZXIuYmFyY29kZXNjYW5uZXJfc2NyZWVuXzBfMTYxMjMyNjY0NV8wNzc/screen-0.webp?fakeurl=1&type=.webp) | 
 |:--:| 
 | Image Credits - [QR Scanner](https://apkpure.com/developer/QR%20Scanner%20%26%20QR%20Code%20Generator%20%26%20Radio%20%26%20Notes)|
