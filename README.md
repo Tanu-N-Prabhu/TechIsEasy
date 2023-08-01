@@ -11,6 +11,7 @@
 2. [Generating a GitHub Page Counter](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Page_Counter.md)
 3. [Dropdown Menu](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Dropdown_Menu.md)
 4. [Google Sheet Barcode Generator](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Barcode_in_sheets.md)
+5. [Current Date and Time in Google Sheets](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Current_date_n_time.md)
 
 
 
