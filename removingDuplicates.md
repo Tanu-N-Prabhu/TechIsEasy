@@ -2,6 +2,8 @@
 
 ## Say Bye to Manual Method of Removing the Duplicate Data.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FTechIsEasy%2Fblob%2Fmain%2FremovingDuplicates.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![IMG](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/duplicateData.PNG)
 
 
