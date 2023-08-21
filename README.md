@@ -13,6 +13,7 @@
 4. [Google Sheet Barcode Generator](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Barcode_in_sheets.md)
 5. [Current Date and Time in Google Sheets](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Current_date_n_time.md)
 6. [Generating a Bar Code Generator Using Font](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/barCodegenerator.md)
+7. [Removing Duplicate Values in a Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/removingDuplicates.md)
 
 
 
