@@ -5,10 +5,10 @@
 | Image Credits - [Surface](https://unsplash.com/fr/@surface?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/WWv6tTX6iZc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)|
 
 # About
-I **Tanu Nanda Prabhu**, always like to make complex things simple so that others can understand it easier and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and concluded starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also looking for help, for people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it. Feel free to let me know any changes, comments, concerns and suggestions [here](tanunprabhu95@gmail.com)
+I **Tanu Nanda Prabhu**, always like to simplify complex things so that others can understand them more easily and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and conclude starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it. Feel free to let me know any changes, comments, concerns, and suggestions [here](tanunprabhu95@gmail.com)
 
 ---
-### Table of Contents
+# Table of Contents
 
 1. [Data Referencing](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Data_Referencing_Google_Sheets.md)
 2. [Generating a GitHub Page Counter](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Page_Counter.md)
