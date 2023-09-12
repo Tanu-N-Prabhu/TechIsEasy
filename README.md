@@ -17,6 +17,7 @@ I **Tanu Nanda Prabhu**, always like to simplify complex things so that others c
 5. [Current Date and Time in Google Sheets](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Current_date_n_time.md)
 6. [Generating a Bar Code Generator Using Font](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/barCodegenerator.md)
 7. [Removing Duplicate Values in a Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/removingDuplicates.md)
+8. [Splitting Text in Google Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/split_text.md)
 
 
 
