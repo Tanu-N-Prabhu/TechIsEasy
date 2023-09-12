@@ -25,6 +25,8 @@ I **Tanu Nanda Prabhu**, always like to simplify complex things so that others c
 
 
 
+# Credits
 
+I hereby thank all of the online resources such as YouTube videos, and Google articles for providing me with excellent content. I do a lot of research and then make sure that the articles I write are less than 3 minutes long. The goal is "Less is More". Most importantly, I hereby thank all the viewers who read my articles find their solutions, and contribute. Thanks y'all.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FTechIsEasy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
