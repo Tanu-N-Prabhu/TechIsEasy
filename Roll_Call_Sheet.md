@@ -1,6 +1,6 @@
 # Creating a Roll Call Sheet using Google Sheets
 ## Let's see the number of days one shows up to work!
-![Img](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/rollCall.PNG)
+![Img](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/rollCall3.PNG)
 
 # Steps to Create it
 
@@ -9,4 +9,9 @@
 
    
 ![Img](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/rollCall1.PNG)
+
+# Result
+
+![Img](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Img/rollCall.PNG)
+
 
