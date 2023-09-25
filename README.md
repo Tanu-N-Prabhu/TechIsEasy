@@ -19,6 +19,7 @@ I **Tanu Nanda Prabhu**, always like to simplify complex things so that others c
 7. [Removing Duplicate Values in a Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/removingDuplicates.md)
 8. [Splitting Text in Google Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/split_text.md)
 9. [Roll Sheet Using Google Sheet](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Roll_Call_Sheet.md)
+10. [Creating a miniature chart contained within a single cell](https://github.com/Tanu-N-Prabhu/TechIsEasy/blob/main/Sparkline.md)
 
 
 
